@@ -5,6 +5,8 @@
 # base05
 # base06
 # base07
+kanjiji
+
 # base08
 # base09
 # li# henhao
