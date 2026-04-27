@@ -7,6 +7,7 @@
 # base07
 kanjiji
 kanjiji
+kanjiji
 
 # base08
 # base09
