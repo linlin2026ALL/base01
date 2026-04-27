@@ -9,6 +9,7 @@ kanjiji
 kanjiji
 kanjiji
 zheghe
+zheghe
 
 # base08
 # base09
