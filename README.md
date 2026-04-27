@@ -3,3 +3,4 @@
 # base03
 # base04
 # base05
+# base06
